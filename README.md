@@ -1,1 +1,1 @@
-["turkiye","acunmedya","bilgivkti","captaindiyar","efeap4k"]
+"turkiye","acunmedya","bilgivkti","captaindiyar","efeap4k".json
